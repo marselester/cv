@@ -18,7 +18,7 @@ You can reach me via:
 Skills
 ------
 
-Python, Django, Flask, PostgreSQL, Redis, Nginx, Git
+Python, Django, Flask, PostgreSQL, Redis, Nginx, Git, SaltStack
 
 Work Experience
 ---------------

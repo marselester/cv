@@ -23,6 +23,18 @@ Python, Django, Flask, PostgreSQL, Redis, Nginx, Git, SaltStack
 Work Experience
 ---------------
 
+**Python Developer** at Joltem_
+October 2013 — Nowadays (remote)
+
+I have joined to the project (it uses Django, Twisted) from the beginning
+and participated in setting up infrastructure with SaltStack.
+
+**Python Developer** at social advertising platform Sociate_
+August 2013 — September 2013 (remote)
+
+Mainly I was involved in Odnoklassniki API integration with Django,
+e.g., I wrote `Odnoklassniki REST API wrapper`_.
+
 **Python Developer** at cloud-based file upload SaaS Uploadcare_
 November 2012 — August 2013 (remote)
 
@@ -62,6 +74,9 @@ Education
 BS, MS Computer Science at Ufa State Aviation Technical University
 2007 — 2012
 
+.. _Joltem: http://joltem.com
+.. _Sociate: http://sociate.ru
+.. _Odnoklassniki REST API wrapper: https://github.com/marselester/pyodnoklassniki
 .. _Uploadcare: https://uploadcare.com
 .. _Stripe: http://stripe.com
 .. _pyuploadcare: https://github.com/uploadcare/pyuploadcare

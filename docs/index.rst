@@ -24,10 +24,11 @@ Work Experience
 ---------------
 
 **Python Developer** at Joltem_
-October 2013 — Nowadays (remote)
+October 2013 — November 2013 (remote)
 
-I have joined to the project (it uses Django, Twisted) from the beginning
-and participated in setting up infrastructure with SaltStack.
+I had joined to the project (it uses Django, Twisted) when infrastructure
+was not set, so I participated in setting up infrastructure with SaltStack,
+refactoring Django project.
 
 **Python Developer** at social advertising platform Sociate_
 August 2013 — September 2013 (remote)

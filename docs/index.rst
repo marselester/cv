@@ -23,7 +23,7 @@ Python, Django, Flask, PostgreSQL, Redis, Nginx, Git, SaltStack
 Work Experience
 ---------------
 
-**Python Developer** at Joltem_
+**Python Developer** at open incubator Joltem_
 October 2013 — November 2013 (remote)
 
 I had joined to the project (it uses Django, Twisted) when infrastructure
@@ -41,9 +41,9 @@ November 2012 — August 2013 (remote)
 
 I started to work at Uploadcare from tasks that helped me find out their
 infrastructure quicker (Django, Tornado, Flask). After that I engaged
-mostly with Django (receiving payments through Stripe_, dashboard)
-and maintaining pyuploadcare_ (mass refactoring, documentation_,
-python 3 support, first major release).
+mostly with Django (receiving payments by Stripe_, dashboard)
+and maintaining API library pyuploadcare_ (mass refactoring, documentation_,
+Python 3 support, first major release).
 
 **Python Developer** at social concert startup FanGid.com_
 July 2012 — October 2012 (worked under contract)
@@ -52,8 +52,7 @@ I participated in development of requirements and architecture. While
 constructing my basic tasks were social authorization, voting system,
 concert's pages, artist's profile, tasks, which require Celery
 (e.g., downloading similar artists, email sending), trading subsystem
-(tickets, orders, discounts, payment). The organization of work via GitHub,
-organization of unit and functional testing I attribute to my achievements.
+(tickets, orders, discounts, payment).
 
 **Software Engineer**, **Senior Software Engineer** at web studio Bestweb_
 August 2007 — January 2012

@@ -23,6 +23,12 @@ Python, Django, Flask, PostgreSQL, Redis, Nginx, Git, SaltStack
 Work Experience
 ---------------
 
+**Python Developer** at icon fonts generator Fontastic_ (Webalys_)
+January 2014 — Present (remote)
+
+Django code quality improvement (refactoring, tests, documentation, bug fixes),
+helping with infrastructure based on Ansible.
+
 **Python Developer** at open incubator Joltem_
 October 2013 — November 2013 (remote)
 
@@ -74,6 +80,8 @@ Education
 BS, MS Computer Science at Ufa State Aviation Technical University
 2007 — 2012
 
+.. _Fontastic: http://fontastic.me
+.. _Webalys: http://www.webalys.com
 .. _Joltem: http://joltem.com
 .. _Sociate: http://sociate.ru
 .. _Odnoklassniki REST API wrapper: https://github.com/marselester/pyodnoklassniki

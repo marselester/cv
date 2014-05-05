@@ -9,7 +9,7 @@ Marsel Mavletkulov: Python Developer
    :class: floatingflask
 
 Remote Python developer, contractor with seven years of experience.
-You can reach me via:
+Interested in Machine Learning. You can reach me via:
 
 - marselester@ya.ru
 - `marselester <https://github.com/marselester>`_ on GitHub

@@ -28,8 +28,8 @@ January 2014 — Present (remote)
 
 Django code quality improvement (refactoring, tests, documentation, bug fixes),
 helping with infrastructure based on Ansible. Also I worked on billing
-(recurring PayPal payments, limitation control, coroutine based S3 and
-CloudFront log analyzer).
+(recurring PayPal payments, font hosting limitation control,
+coroutine based S3 and CloudFront log analyzer) and SVG sprite hosting.
 
 **Python Developer** at open incubator Joltem_
 October 2013 — November 2013 (remote)

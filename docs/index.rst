@@ -13,7 +13,7 @@ Interested in Machine Learning. You can reach me via:
 
 - marselester@ya.ru
 - `marselester <https://github.com/marselester>`_ on GitHub
-- `marselester <skype:marselester?userinfo>`_ on Skype
+- `marselester <http://www.linkedin.com/in/marselester>`_ on LinkedIn
 
 Skills
 ------

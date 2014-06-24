@@ -8,7 +8,7 @@ Marsel Mavletkulov: Python Developer
    :alt: Marsel Mavletkulov: Python Developer
    :class: floatingflask
 
-Remote Python developer, contractor with seven years of experience.
+Python developer, contractor with seven years of experience.
 Interested in Machine Learning. You can reach me via:
 
 - marselester@ya.ru

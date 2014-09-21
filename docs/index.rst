@@ -23,8 +23,14 @@ Python, Django, Flask, PostgreSQL, Redis, Nginx, Git, SaltStack
 Work Experience
 ---------------
 
+**Senior Python Developer** at Coins.ph_, it allows anyone to buy, sell and accept Bitcoin
+July 2014 — Present
+
+I developed Bitcoin wallet, set up infrastructure based on SaltStack,
+improved project's architecture (decoupling/improving components) and code quality.
+
 **Python Developer** at icon fonts generator Fontastic_ (Webalys_)
-January 2014 — Present (remote)
+January 2014 — July 2014 (remote)
 
 Django code quality improvement (refactoring, tests, documentation, bug fixes),
 helping with infrastructure based on Ansible. Also I worked on billing
@@ -82,6 +88,7 @@ Education
 BS, MS Computer Science at Ufa State Aviation Technical University
 2007 — 2012
 
+.. _Coins.ph: https://coins.ph
 .. _Fontastic: http://fontastic.me
 .. _Webalys: http://www.webalys.com
 .. _Joltem: http://joltem.com

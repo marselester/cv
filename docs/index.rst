@@ -1,14 +1,14 @@
 :orphan:
 
-====================================
-Marsel Mavletkulov: Python Developer
-====================================
+=================================
+Marsel Mavletkulov: Web Developer
+=================================
 
 .. image:: http://s.gravatar.com/avatar/cce07797ff3e9785f81b9ae248b01bd3?s=195
-   :alt: Marsel Mavletkulov: Python Developer
+   :alt: Marsel Mavletkulov: Python, Golang Developer
    :class: floatingflask
 
-Python developer, contractor with seven years of experience.
+Python & Go developer, contractor with eight years of experience.
 Interested in Machine Learning. You can reach me via:
 
 - marselester@ya.ru
@@ -18,16 +18,24 @@ Interested in Machine Learning. You can reach me via:
 Skills
 ------
 
-Python, Django, Flask, PostgreSQL, Redis, Nginx, Git, SaltStack
+Python, Go, Django, Flask, PostgreSQL, Redis, Nginx, Git, SaltStack
 
 Work Experience
 ---------------
 
-**Senior Python Developer** at Coins.ph_, it allows anyone to buy, sell and accept Bitcoin
+**Senior Python Developer** at Coins.ph_, money transfer system based on Bitcoin
 July 2014 — Present
 
-I developed Bitcoin wallet, set up infrastructure based on SaltStack,
-improved project's architecture (decoupling/improving components) and code quality.
+In two months onboard I developed and released to production
+the Bitcoin wallet system. I keep improving it still.
+At the same time I set up continuous integration and infrastructure
+based on SaltStack (production, staging, beta and sandbox servers).
+Also I wrote a number of Python API clients.
+
+All along I've been improving code quality,
+decoupling services from the legacy monolithic system
+towards a microservice architecture. For example, a currency quotes service,
+an account service which provides JWT auth flow.
 
 **Python Developer** at icon fonts generator Fontastic_ (Webalys_)
 January 2014 — July 2014 (remote)
@@ -40,7 +48,7 @@ coroutine based S3 and CloudFront log analyzer) and SVG sprite hosting.
 **Python Developer** at open incubator Joltem_
 October 2013 — November 2013 (remote)
 
-I had joined to the project (it uses Django, Twisted) when infrastructure
+I had joined the project (it uses Django, Twisted) when infrastructure
 was not set, so I participated in setting up infrastructure with SaltStack,
 refactoring Django project.
 
@@ -60,7 +68,7 @@ and maintaining API library pyuploadcare_ (mass refactoring, documentation_,
 Python 3 support, first major release).
 
 **Python Developer** at social concert startup FanGid.com_
-July 2012 — October 2012 (worked under contract)
+July 2012 — October 2012
 
 I participated in development of requirements and architecture. While
 constructing my basic tasks were social authorization, voting system,

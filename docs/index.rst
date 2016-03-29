@@ -1,8 +1,8 @@
 :orphan:
 
-=================================
-Marsel Mavletkulov: Web Developer
-=================================
+=======================================
+Marsel Mavletkulov: Python/Go Developer
+=======================================
 
 .. image:: http://s.gravatar.com/avatar/cce07797ff3e9785f81b9ae248b01bd3?s=195
    :alt: Marsel Mavletkulov: Python, Golang Developer
@@ -23,7 +23,7 @@ Python, Go, Django, Flask, PostgreSQL, Redis, Nginx, Git, SaltStack
 Work Experience
 ---------------
 
-**Senior Python Developer** at Coins.ph_, money transfer system based on Bitcoin
+**Senior Software Engineer** (Python/Go) at Coins.ph_, money transfer system based on Bitcoin
 July 2014 — Present
 
 In two months onboard I developed and released to production

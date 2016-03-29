@@ -1,8 +1,8 @@
 :orphan:
 
-=======================================
-Marsel Mavletkulov: Python/Go Developer
-=======================================
+=================================
+Marsel Mavletkulov: Python/Golang
+=================================
 
 .. image:: http://s.gravatar.com/avatar/cce07797ff3e9785f81b9ae248b01bd3?s=195
    :alt: Marsel Mavletkulov: Python, Golang Developer

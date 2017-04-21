@@ -9,16 +9,15 @@ Marsel Mavletkulov: Python/Golang
    :class: floatingflask
 
 Python & Go developer, contractor with eight years of experience.
-Interested in Machine Learning. You can reach me via:
+Interested in distributed systems and Machine Learning. You can reach me via:
 
 - marselester@ya.ru
 - `marselester <https://github.com/marselester>`_ on GitHub
-- `marselester <http://www.linkedin.com/in/marselester>`_ on LinkedIn
 
 Skills
 ------
 
-Python, Go, Django, Flask, PostgreSQL, Redis, Nginx, Git, SaltStack
+Python, Go, Django, PostgreSQL, Redis, Kubernetes
 
 Work Experience
 ---------------

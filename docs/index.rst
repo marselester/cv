@@ -8,29 +8,23 @@ Marsel Mavletkulov: Python/Go
    :alt: Marsel Mavletkulov: Python, Go Developer
    :class: floatingflask
 
-Python & Go developer, contractor with 11 years of experience building web applications.
+Python & Go developer, contractor with 12 years of experience building web applications.
 I am interested in distributed systems and machine learning. You can reach me via:
 
-- marselester@ya.ru
 - `marselester <https://github.com/marselester>`_ on GitHub
-
-Skills
-------
-
-Python, Go, Django, PostgreSQL, Redis, Kubernetes
+- marselester@ya.ru
 
 Work Experience
 ---------------
 
-**Senior Software Engineer** (Python/Go) at Coins.ph_, financial services based on Bitcoin
+**Senior Software Engineer** (Python/Go), **Software Architect** (since August 2017) at Coins.ph_, financial services based on digital currencies such as Bitcoin and Ethereum
 July 2014 — Present
 
 In two months onboard I developed the wallet system which is our core service.
-I keep improving it still.
+I have been maintaining and improving it as the company has grown to serve millions of customers.
 
-At the same time I set up continuous integration and infrastructure
-based on SaltStack (production, staging, beta and sandbox servers).
-Also I wrote a number of Python API clients.
+In early days of Coins.ph I set up continuous integration and infrastructure
+based on SaltStack (production, staging, beta and sandbox servers), though it's on Kubernetes nowadays.
 
 All along I've been improving code quality & architecture and advocating for both,
 decoupling services from the legacy monolithic system
@@ -45,25 +39,12 @@ helping with infrastructure based on Ansible. Also I worked on billing
 (recurring PayPal payments, font hosting limitation control,
 coroutine based S3 and CloudFront log analyzer) and SVG sprite hosting.
 
-**Python Developer** at open software projects incubator Joltem_
-October 2013 — November 2013 (remote)
-
-I had joined the project (it used Django, Twisted) when infrastructure
-was not set up, so I participated in setting it up based on SaltStack,
-refactoring Django project.
-
-**Python Developer** at social advertising platform Sociate_
-August 2013 — September 2013 (remote)
-
-Mainly I was involved in Odnoklassniki API integration with Django,
-e.g., I wrote `Odnoklassniki REST API wrapper`_.
-
 **Python Developer** at cloud-based file upload SaaS Uploadcare_
 November 2012 — August 2013 (remote)
 
 I started to work at Uploadcare from tasks that helped me to get familiar with
 the infrastructure quicker (Django, Tornado, Flask, Chef). After that I engaged
-mostly with Django (payments integration with Stripe_, customer dashboard)
+mostly with Django (payments integration with Stripe, customer dashboard)
 and maintaining API library pyuploadcare_ (mass refactoring, documentation_,
 Python 3 support, first major release).
 
@@ -107,11 +88,7 @@ Master's degree in Computer Science.
 .. _Coins.ph: https://coins.ph
 .. _Fontastic: http://fontastic.me
 .. _Webalys: http://www.webalys.com
-.. _Joltem: http://joltem.com
-.. _Sociate: http://sociate.ru
-.. _Odnoklassniki REST API wrapper: https://github.com/marselester/pyodnoklassniki
 .. _Uploadcare: https://uploadcare.com
-.. _Stripe: http://stripe.com
 .. _pyuploadcare: https://github.com/uploadcare/pyuploadcare
 .. _documentation: https://pyuploadcare.readthedocs.org
 .. _FanGid.com: http://fangid.com

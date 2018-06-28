@@ -8,8 +8,12 @@ Marsel Mavletkulov: Python/Go
    :alt: Marsel Mavletkulov: Python, Go Developer
    :class: floatingflask
 
-Python & Go developer, contractor with 12 years of experience building web applications.
-I am interested in distributed systems and machine learning. You can reach me via:
+I care deeply about architecture and code quality.
+I like to design web services (APIs) and reason about their boundaries, therefore I am interested in distributed systems.
+I find professional satisfaction in idiomatic code written as a story for developers.
+Thus I've chosen Python and Go to help me be the most productive.
+
+On a side note, machine learning is a small hobby of mine. You can reach me via:
 
 - `marselester <https://github.com/marselester>`_ on GitHub
 - marselester@ya.ru
@@ -21,7 +25,7 @@ Work Experience
 July 2014 — Present
 
 In two months onboard I developed the wallet system which is our core service.
-I have been maintaining and improving it as the company has grown to serve millions of customers.
+I have been maintaining and improving it as the company has grown to serve over 5 millions of customers.
 
 In early days of Coins.ph I set up continuous integration and infrastructure
 based on SaltStack (production, staging, beta and sandbox servers), though it's on Kubernetes nowadays.

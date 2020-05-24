@@ -4,7 +4,7 @@
 Marsel
 ======
 
-It is important for me to solve meaningful problems.
+It is important for me to solve hard, meaningful problems with high impact.
 I find professional satisfaction in designing services, reasoning about their boundaries,
 writing documentation and clear code (nowadays in Go).
 

@@ -4,19 +4,19 @@
 Marsel
 ======
 
-It is important for me to solve hard, meaningful problems with high impact.
+It is important for me to solve meaningful problems with high impact.
 I find professional satisfaction in designing services, reasoning about their boundaries,
 writing documentation and clear code (nowadays in Go).
 
 - `marselester <https://github.com/marselester>`_ on GitHub
-- `marselester.com <http://marselester.com>`_
+- `marselester.com <https://marselester.com>`_
 - `marselester <https://angel.co/u/marselester>`_ on AngelList
 
 Work Experience
 ---------------
 
 **Senior Software Engineer**, **Software Architect** (since August 2017) at fintech startup Coins.ph_ 🚀
-July 2014 — Present
+July 2014 — September 2020
 
 Two months onboard I developed a basic wallet (ledger) which helped the company to widen its reach
 and broaden financial inclusion in the Philippines.

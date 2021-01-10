@@ -1,60 +1,58 @@
 :orphan:
 
-======
-Marsel
-======
+==================
+Marsel Mavletkulov
+==================
+
+.. image:: http://s.gravatar.com/avatar/cce07797ff3e9785f81b9ae248b01bd3?s=195
+   :alt: Marsel Mavletkulov: Go developer
+   :class: floatingflask
 
 It is important for me to solve meaningful problems with high impact.
-I find professional satisfaction in designing services, reasoning about their boundaries,
-writing documentation and clear code (nowadays in Go).
+I find professional satisfaction in building reliable services, reasoning about their boundaries,
+writing documentation and clear code.
 
-- `marselester <https://github.com/marselester>`_ on GitHub
-- `marselester.com <https://marselester.com>`_
-- `marselester <https://angel.co/u/marselester>`_ on AngelList
+- https://github.com/marselester
+- https://marselester.com
+- https://angel.co/u/marselester
+
+I prefer Go, PostgreSQL, Kafka, Kubernetes, SaltStack/Ansible.
 
 Work Experience
 ---------------
 
-**Senior Software Engineer**, **Software Architect** (since August 2017) at fintech startup Coins.ph_ 🚀
+**Senior Software Engineer** (Python/Go), **Software Architect** (since August 2017) at fintech startup Coins.ph_ 🚀
 July 2014 — September 2020
 
-Two months onboard I developed a basic wallet (ledger) which helped the company to widen its reach
-and broaden financial inclusion in the Philippines.
-I had been maintaining and improving it for 4 years as the company has grown to serve over 10 millions of customers.
+I developed a wallet service (multi-currency payments including Bitcoin/Ethereum)
+which helped the company to grow from thousands to over 10 millions of customers.
+Later I designed a new ledger (Go, PostgreSQL, Kafka) to solve scalability issues,
+and led the team that focused on its delivery.
 
-At the same time I focused on decoupling services from a monolithic system.
-For example, currency quotes service, account management service.
-In early days of Coins I set up continuous integration and infrastructure based on SaltStack.
+In early days I set up infrastructure based on SaltStack.
+It helped to quickly provision dozens of EC2 instances to cope with exponential growth (it's Kubernetes nowadays).
+I introduced ELK, Prometheus, Jaeger to help developers with troubleshooting.
 
-With a rapid growth I desperately needed help with systems I was entrusted
-and luckily a few engineers whom I knew professionally joined the team
-consequently hiring more like-minded ones.
-They took the company to the next level gradually replacing previous solutions
-as well as raising the bar for engineering (`current stack <https://stackshare.io/coins-ph/coins>`_).
+I also decoupled and refactored services from Flask monolith to scale them independently, e.g.,
+currency quotes service, account management service (sign up/in, TFA).
 
-All along I've been improving code quality, architecture and advocating for both.
-With growing engineering team I dedicated more time and effort to knowledge sharing (docs/talks)
-to add historical perspective on why certain technical decisions were made,
-where we are approximately heading, how we make trade-offs and work comfortably as a team
-(conventions/proposals gardening).
-Basically helping smart people solve hard problems and get out of their way.
-Thus I have gradually drifted out of writing code into helping fellow developers as an architect and a team lead.
+All along I've been improving code quality, architecture and advocating for both
+(conventions/proposals gardening similar to Go proposals).
 
 **Python Developer** at icon fonts generator Fontastic_ (Webalys_) 🙂
 January 2014 — July 2014
 
 As a contractor I started with Django code quality improvements
-(refactoring, writing tests/documentation, bug fixes),
-helped with infrastructure based on Ansible. Then focused on project monetisation functionality:
+(refactoring, writing tests/docs) and infrastructure as code (Ansible).
+
+Then I focused on improving project monetization:
 SVG sprite hosting and billing (recurring PayPal payments, usage limits of font hosting,
 coroutine based AWS S3 and CloudFront log analyzer).
 
 **Python Developer** at cloud-based file upload SaaS Uploadcare_ 🆙
 November 2012 — August 2013
 
-At Uploadcare I was assigned first with tasks that helped me to get familiar with
-the infrastructure quicker (Django, Tornado, Flask, Chef). After that I engaged
-mostly with Django (payments integration with Stripe, customer dashboard)
+I helped with customer dashboards, monetization (payments integration with Stripe),
 and maintaining API library pyuploadcare_ (mass refactoring, documentation_,
 Python 3 support, first major release).
 
@@ -62,13 +60,13 @@ Python 3 support, first major release).
 July 2012 — October 2012
 
 Right after graduation I met a concerts organizer who was looking for developers to build a startup.
-The idea was to gauge music fans interest in a particular artist in a certain city, bring most wanted musicians, and sell tickets.
-I pitched it to a fellow developer whose expertise I trust and together we split responsibilities and launched the project in 3 months.
+The idea was to gauge music fans interest, bring most wanted musicians, and sell tickets.
+I pitched it to a fellow developer, and we launched the project in 3 months.
 
-I had participated in setting up the project's foundation and system's architecture.
-During my time there I worked on the following Django components:
+I helped to set up the project's foundation and system's architecture.
+Then I worked on the following Django components:
 social auth, voting system, concert's pages, singer's profile page,
-displaying similar bands, email sending, monetisation (tickets, orders, discounts, payments).
+displaying similar bands, email sending, monetization (tickets, orders, discounts, payments).
 
 ----
 
@@ -85,7 +83,7 @@ To my best knowledge about 20 websites ran on a CMS I developed.
 April 2006 — June 2007
 
 In my freshman/sophomore years I worked as a full stack developer of standard corporate websites
-using vanilla PHP and MySQL. Back then it was also popular to make your own CMS or CRM.
+using vanilla PHP and MySQL.
 The most challenging project was a regional portal SamRU_ (~80K pageviews per day)
 for which I wrote the following modules:
 forum, job board, weather forecast widget, billboard, catalog of products, banner system, etc.

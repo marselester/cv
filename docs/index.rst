@@ -36,7 +36,7 @@ July 2014 — August 2017
 - introduced ELK, Prometheus, Jaeger to help developers with troubleshooting;
 - decoupled and redesigned the core services from Flask monolith to scale them independently, e.g.,
   currency quotes service, account management service (sign up/in, TFA);
-- helped with Go adoption (no web or test frameworks, no ORMs):
+- helped with Go adoption (no web or `testing frameworks`_, no ORMs):
   common `project structure <https://marselester.com/how-to-structure-go-projects.html>`_
   leveraging Go kit components (JSON/gRPC transports, telemetry, rate limiter, circuit breaker);
 - improved code quality, architecture and advocated for both (conventions/proposals gardening similar to Go proposals);
@@ -51,7 +51,7 @@ January 2014 — July 2014
   recurring PayPal payments, usage limits of font hosting,
   coroutine based AWS S3 and CloudFront log analyzer);
 - introduced infrastructure as code (Ansible) to limit human errors;
-- improved Django code quality (refactoring, writing tests/docs) to reduce tech debt;
+- refactored and documented backend (Django, PostgreSQL) reducing tech debt;
 
 **Python Developer** at cloud-based file upload SaaS Uploadcare_ 🆙
 November 2012 — August 2013
@@ -77,6 +77,7 @@ Ufa State Aviation Technical University, graduating in 2012 with
 Master's degree in Computer Science.
 
 .. _Coins.ph: https://coins.ph
+.. _testing frameworks: https://golang.org/doc/faq#testing_framework
 .. _Fontastic: http://fontastic.me
 .. _Webalys: http://www.webalys.com
 .. _Uploadcare: https://uploadcare.com
@@ -84,6 +85,5 @@ Master's degree in Computer Science.
 .. _documentation: https://pyuploadcare.readthedocs.org
 .. _FanGid.com: http://fangid.com
 
-.. image:: https://pbs.twimg.com/media/DzgnXq2UUAEW5LO?format=jpg&name=small
+.. image:: _static/talk.jpg
    :alt: Marsel Mavletkulov: Go developer
-   :class: floatingflask
